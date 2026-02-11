@@ -98,6 +98,16 @@ function AboutIntro() {
           <p className="text-fluid-base">
             Creative Context is a studio at the intersection of design, technology, and storytelling. Founded by James McKay and based in Atlanta, Creative Context builds tools that make stories visible and engaging, not just heard.
           </p>
+          <a
+            href="https://portfolio.creativecontext.studio"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-3 inline-flex items-center gap-1.5 text-fluid-sm font-medium text-accent
+                       transition-colors duration-[var(--duration-fast)] ease-atl hover:text-accent-hover"
+          >
+            Learn more about Creative Context Studio
+            <span aria-hidden="true" className="text-[0.75em]">&#8599;</span>
+          </a>
         </section>
       </div>
 
