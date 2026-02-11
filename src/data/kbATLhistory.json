@@ -1,0 +1,179 @@
+{
+  "title": "Atlanta: A City Built in Layers",
+  "eras": [
+    {
+      "id": "pre-1820s",
+      "era": "Before Atlanta: Native homelands and land seizure",
+      "yearRange": "Pre-1820s",
+      "content": "Long before \"Atlanta,\" the area was part of the homelands of the Muscogee (Creek) and Cherokee nations. In the early 1800s, Georgia's white leaders pursued systematic dispossession. Through a series of treaties and state actions between 1802 and 1825, the Creeks ceded large tracts of north and central Georgia under intense pressure. A key moment was the 1821 Treaty of Indian Springs, in which Creek leaders ceded land that includes what is now metro Atlanta. Within months, Georgia created new counties and used land lotteries to transfer that land to white settlers. DeKalb County (including the future Atlanta site) was formed in 1822, with Decatur as county seat. By the late 1820s and 1830s, federal and state campaigns culminated in the forced removal of most Creeks and Cherokees from northwest Georgia, part of the broader \"Trail of Tears.\" That violent clearing of Indigenous people is the precondition for every later Atlanta story.",
+      "keyEvents": [
+        { "year": "1802–1825", "event": "Series of treaties and state actions force Creek land cessions in north and central Georgia" },
+        { "year": "1821", "event": "Treaty of Indian Springs — Creek leaders cede land including modern Atlanta" },
+        { "year": "1822", "event": "DeKalb County formed with Decatur as county seat" },
+        { "year": "Late 1820s–1830s", "event": "Forced removal of Creeks and Cherokees (Trail of Tears)" }
+      ],
+      "keyPeople": [],
+      "keyPlaces": ["Chattahoochee River", "DeKalb County", "Decatur"]
+    },
+    {
+      "id": "1830s-1860",
+      "era": "A railroad crossroads: Terminus, Marthasville, and Atlanta",
+      "yearRange": "1830s–1860",
+      "content": "Atlanta begins as a railroad project. In 1837, engineers for the Western & Atlantic Railroad marked a point on a ridge east of the Chattahoochee River as the southern end (\"terminus\") of a line from Chattanooga. A small settlement formed around this stake and became known simply as \"Terminus.\" By the mid-1850s, multiple rail lines linked Atlanta to Savannah, Macon, Augusta, Chattanooga, and LaGrange, making it a key Southern rail hub and trading center. Unlike many Southern towns dominated by planters, early Atlanta leadership came from merchants and railroad men; they generally opposed secession on economic grounds, but the city still joined the Confederacy in 1861.",
+      "keyEvents": [
+        { "year": "1837", "event": "Western & Atlantic engineers mark 'Terminus' as rail line's southern end" },
+        { "year": "1839", "event": "Settlement of 'Terminus' established" },
+        { "year": "1843", "event": "Town of Marthasville incorporated, named for the governor's daughter" },
+        { "year": "1845", "event": "Town renamed 'Atlanta,' likely referencing the Western & Atlantic Railroad and the Atlantic Ocean" },
+        { "year": "1847", "event": "Atlanta incorporated as a city; population about 2,500 by 1850" }
+      ],
+      "keyPeople": [],
+      "keyPlaces": ["Chattahoochee River", "Chattanooga", "Savannah", "Macon", "Augusta", "LaGrange"]
+    },
+    {
+      "id": "1861-1865",
+      "era": "Civil War and the burning of Atlanta",
+      "yearRange": "1861–1865",
+      "content": "Because of its railroads and industry, Atlanta was a major Confederate logistics center during the Civil War. In 1864, Union General William T. Sherman launched the Atlanta Campaign, capturing the city after months of fighting around places like Kennesaw Mountain, Peachtree Creek, and Jonesboro. The destruction was massive, though not literally \"the whole city\" as later myth suggests. Only Sherman's fire and the Great Fire of 1917 rival each other in structural damage in city history. The trauma of burning became central to Atlanta's identity and its later \"phoenix rising from the ashes\" symbolism.",
+      "keyEvents": [
+        { "year": "September 2, 1864", "event": "Union troops occupy Atlanta" },
+        { "year": "September 7, 1864", "event": "Sherman orders civilian evacuation" },
+        { "year": "November 11–15, 1864", "event": "Sherman orders destruction of military assets; large parts of Atlanta burned before 'March to the Sea'" }
+      ],
+      "keyPeople": ["William T. Sherman"],
+      "keyPlaces": ["Kennesaw Mountain", "Peachtree Creek", "Jonesboro"]
+    },
+    {
+      "id": "1865-1900",
+      "era": "Reconstruction and the 'Gate City of the New South'",
+      "yearRange": "1865–1900",
+      "content": "When the war ended, Atlanta rebuilt rapidly. The population of Fulton County more than doubled between 1860 and 1870, driven in part by formerly enslaved people moving to the city for work and relative safety. By 1870, Atlanta's Black population in Fulton County had increased from about 20.5% to 45.7%. Journalist Henry W. Grady promoted Atlanta as the capital of a modern \"New South\" defined by industrialization and diversification beyond plantation agriculture. He and other White elites marketed the city aggressively to Northern investors while maintaining white supremacy at home. At the same time, early Black activism emerged. Beginning in 1880, Black Atlantans carried out direct-action protests—like the highly successful 1881 washerwomen's strike demanding better pay and working conditions, and later strikes against segregated streetcars in the 1890s—that pioneered tactics used again in the mid-20th-century civil rights movement. By 1895, the Cotton States and International Exposition in Piedmont Park showcased Atlanta's industrial and agricultural progress to the world. Booker T. Washington delivered his famous \"Atlanta Compromise\" speech there, arguing for Black economic advancement within segregation—a position that sparked debates among Black leaders.",
+      "keyEvents": [
+        { "year": "1865", "event": "Founding of Atlanta University, the city's first Black college" },
+        { "year": "1868", "event": "Atlanta becomes Georgia's state capital, replacing Milledgeville" },
+        { "year": "1871", "event": "Public school system organized; first horse-drawn streetcars begin" },
+        { "year": "1881", "event": "Washerwomen's strike — major Black-led labor action demanding better pay" },
+        { "year": "1891–1892", "event": "Streetcar segregation law and successful Black streetcar strike" },
+        { "year": "1895", "event": "Cotton States and International Exposition in Piedmont Park; Booker T. Washington's 'Atlanta Compromise' speech" }
+      ],
+      "keyPeople": ["Henry W. Grady", "Booker T. Washington"],
+      "keyPlaces": ["Fulton County", "Piedmont Park", "Atlanta University Center"]
+    },
+    {
+      "id": "1900-1930s",
+      "era": "Jim Crow, Black entrepreneurship, and racial violence",
+      "yearRange": "1900–1930s",
+      "content": "In the early 20th century, Atlanta embodied both possibilities and dangers for Black Southerners. Auburn Avenue emerged as the commercial and spiritual heart of Black Atlanta, lined with banks, insurance companies, entertainment venues, and churches—a center of Black middle-class life. Civil rights leader John Wesley Dobbs famously called it \"Sweet Auburn\" in the 1920s. Fortune magazine would later describe Auburn Avenue as \"the richest Negro street in the world,\" reflecting its economic significance by the 1950s. But this flourishing took place under an increasingly rigid Jim Crow system, enforced through law and violence.\n\nBetween September 24–26, 1906, white mobs attacked Black Atlantans in one of the most infamous urban racial massacres of the era. White newspapers published sensational, unsubstantiated reports of alleged assaults on white women by Black men, stoking racial panic. Crowds of 10,000–15,000 white men and boys gathered downtown, pulling Black riders off streetcars and attacking them in the streets, hotels, and Black businesses. Black-owned businesses on Decatur Street and Auburn Avenue were vandalized; barbers in a shop across from Alonzo Herndon's elite barbershop were murdered. Official records list around 25 Black deaths and two white deaths; historians estimate 25–40 Black people were killed and many more injured. The massacre deepened segregation and class divisions within Black Atlanta.\n\nOn May 21, 1917, multiple small fires combined into a conflagration that burned for almost 10 hours, destroying about 300 acres and 1,900 structures and leaving over 10,000 people homeless. Much of the destruction hit working-class and Black neighborhoods such as Buttermilk Bottom. The fire led to major changes in building codes—wooden shingles were banned—and reshaped large swaths of the city's built environment.",
+      "keyEvents": [
+        { "year": "1906", "event": "Atlanta Race Massacre — white mobs kill at least 25 Black residents and destroy Black businesses over 3 days" },
+        { "year": "1917", "event": "Great Atlanta Fire destroys about 1,900 buildings, 300 acres, leaves 10,000+ homeless" },
+        { "year": "1920s", "event": "John Wesley Dobbs coins 'Sweet Auburn'; Auburn Avenue becomes national center of Black business and culture" },
+        { "year": "1925–1930", "event": "Candler Field (airport) founded; early commercial flights begin" }
+      ],
+      "keyPeople": ["John Wesley Dobbs", "Alonzo Herndon"],
+      "keyPlaces": ["Auburn Avenue (Sweet Auburn)", "Decatur Street", "Buttermilk Bottom", "Candler Field"]
+    },
+    {
+      "id": "1920s-1940s",
+      "era": "Aviation, the Depression, and World War II",
+      "yearRange": "1920s–1940s",
+      "content": "Even as racial segregation hardened, Atlanta's transportation role kept expanding. In 1925, Mayor William B. Hartsfield secured a five-year lease on a former racetrack, creating Candler Field (later Atlanta Municipal Airport). The first mail plane arrived in 1926, and regular airline service followed by 1930. During World War II the airfield doubled in size, handling intense military traffic and becoming the nation's busiest in takeoffs and landings on some days. By tying Atlanta into national air networks, the airport laid the foundation for the region's postwar economic boom and eventually for Hartsfield-Jackson Atlanta International Airport, now one of the world's busiest. On the ground, the Depression and New Deal years brought federal investment, while Jim Crow remained firmly in place. In 1948, after sustained pressure, Atlanta hired eight Black police officers, though they faced severe restrictions, including segregation from white officers.",
+      "keyEvents": [
+        { "year": "1925", "event": "Mayor Hartsfield secures lease for Candler Field, creating Atlanta's airport" },
+        { "year": "1926", "event": "First mail plane arrives at Candler Field" },
+        { "year": "1930", "event": "Regular airline service begins at Candler Field" },
+        { "year": "1940–1945", "event": "Airport doubles in size serving World War II; major military hub" },
+        { "year": "1948", "event": "Atlanta hires first eight Black police officers under severe restrictions" }
+      ],
+      "keyPeople": ["William B. Hartsfield"],
+      "keyPlaces": ["Candler Field", "Hartsfield-Jackson Atlanta International Airport"]
+    },
+    {
+      "id": "1950s-1960s",
+      "era": "Annexation, white flight, and the modern civil rights movement",
+      "yearRange": "1950s–1960s",
+      "content": "In 1952, Atlanta executed a major annexation that brought Buckhead and other overwhelmingly white suburban areas into the city, tripling its geographic size and adding about 100,000 largely white residents. Contemporary leaders, including Mayor William Hartsfield, were explicit that one motive was diluting growing Black voting power. Over subsequent decades, desegregation battles and civil rights gains sparked white flight from many intown neighborhoods to Buckhead and new northern suburbs, shifting wealth and tax base away from predominantly Black areas.\n\nAt the same time, Atlanta became a central stage for the modern civil rights movement. The Atlanta University Center (Morehouse, Spelman, Clark, Atlanta University, etc.) nurtured generations of Black intellectuals and activists, including Martin Luther King Jr. In 1957, the Southern Christian Leadership Conference (SCLC), led by King, headquartered in Atlanta, coordinating nonviolent campaigns across the South. In 1960, AUC students launched sit-ins and boycotts challenging segregated lunch counters and facilities. They issued \"An Appeal for Human Rights,\" a powerful manifesto published in the Atlanta Constitution, Atlanta Journal, and later the New York Times. Student-led actions, supported by Black clergy and business leaders, led to negotiations that desegregated many public accommodations by 1961.\n\nWhile other Southern cities saw mass resistance, Atlanta's white leadership, concerned with business reputation, often negotiated partial accommodations. This helped build Atlanta's image as \"the city too busy to hate,\" even as deep racial inequalities persisted. Civil unrest around police brutality and segregation surfaced in working-class Black neighborhoods like Summerhill (1966) and Dixie Hills (1967), echoing earlier patterns of collective self-defense and protest from the late 19th century.",
+      "keyEvents": [
+        { "year": "1952", "event": "Major annexation brings Buckhead into Atlanta, tripling the city's size; partly to dilute Black voting power" },
+        { "year": "1957", "event": "Southern Christian Leadership Conference (SCLC) founded with HQ in Atlanta, led by MLK" },
+        { "year": "1960", "event": "AUC students publish 'An Appeal for Human Rights'; sit-ins and boycotts begin" },
+        { "year": "1961", "event": "Partial desegregation of public schools and lunch counters" },
+        { "year": "1966–1967", "event": "Uprisings in Summerhill and Dixie Hills against police brutality" }
+      ],
+      "keyPeople": ["Martin Luther King Jr.", "William Hartsfield"],
+      "keyPlaces": ["Buckhead", "Atlanta University Center", "Morehouse College", "Spelman College", "Summerhill", "Dixie Hills"]
+    },
+    {
+      "id": "1970s-1980s",
+      "era": "Black political power and 'the Black Mecca'",
+      "yearRange": "1970s–1980s",
+      "content": "The 1970s marked a huge turning point. In 1973, Maynard Jackson became Atlanta's first Black mayor (and the first Black mayor of a major Southern city), winning nearly 60% of the vote in a racially polarized election. His victory symbolized a shift in political power as the city's population approached a Black majority. Jackson implemented aggressive minority contracting requirements for city projects, especially at the airport, channeling billions in business to Black-owned firms over time. He reformed the police department and worked to reduce racial tensions in law enforcement. He oversaw major expansion of the airport, solidifying it as the region's economic engine; the modern midfield terminal opened in 1980. During this era, Atlanta's reputation as a \"Black Mecca\" grew: a city where Black political leadership, middle-class neighborhoods, and powerful Black businesses and institutions coexisted with stark poverty and segregation. Sweet Auburn, though hit by freeway construction and disinvestment, remained a symbolic hub of Black commerce and culture.",
+      "keyEvents": [
+        { "year": "1973", "event": "Maynard Jackson elected first Black mayor of Atlanta (and first of a major Southern city)" },
+        { "year": "1980", "event": "New midfield airport terminal opens; anchors Delta's growing hub" },
+        { "year": "1980s", "event": "Atlanta consolidates status as corporate and transportation capital of the Southeast; 'Black Mecca' narrative grows" }
+      ],
+      "keyPeople": ["Maynard Jackson"],
+      "keyPlaces": ["Hartsfield-Jackson Airport", "Sweet Auburn"]
+    },
+    {
+      "id": "1990s-2000s",
+      "era": "Olympics, redevelopment, and the BeltLine",
+      "yearRange": "1990s–2000s",
+      "content": "Winning and hosting the 1996 Summer Olympics was the largest event in Atlanta's history and a major global rebranding moment. More than US$5 billion in economic activity and extensive infrastructure upgrades: new sports venues, improvements to streets and sidewalks, and major changes in housing patterns. Creation of Centennial Olympic Park on former industrial and blighted land downtown, which became a permanent civic center and anchor for the tourism district. Olympic Village housing was converted into dorms and residences for Georgia Tech and other universities, reshaping Midtown. The Games brought global attention and investment but also sparked criticism for displacement of low-income residents and uneven benefits across neighborhoods.\n\nIn 1999, Georgia Tech graduate student Ryan Gravel proposed reusing 22 miles of underutilized rail corridors as a loop of transit, trails, and parks—the idea that became the Atlanta BeltLine. With political champions like Cathy Woolard and Mayor Shirley Franklin, the city adopted a BeltLine Redevelopment Plan and created a tax allocation district (TAD) in 2005 to fund the project. In 2006, Atlanta BeltLine, Inc. (ABI) was formed to oversee development. The first paved BeltLine trail segment opened in the West End in 2008. The Eastside Trail opened in 2012 and quickly became extremely popular, catalyzing rapid adjacent development and rising property values. The BeltLine has transformed former industrial and rail lands into greenways and mixed-use corridors, but has also become a flashpoint over gentrification and the shortfall in promised affordable housing along the corridor.",
+      "keyEvents": [
+        { "year": "1996", "event": "Atlanta hosts Summer Olympics; Centennial Olympic Park created; $5B+ in economic impact" },
+        { "year": "1999", "event": "Ryan Gravel's thesis proposes the BeltLine: 22 miles of transit/trails on old rail corridors" },
+        { "year": "2005–2006", "event": "BeltLine Redevelopment Plan and TAD approved; Atlanta BeltLine, Inc. created" },
+        { "year": "2008", "event": "First paved BeltLine trail segment opens in West End" },
+        { "year": "2012", "event": "Eastside Trail opens, catalyzing rapid intown redevelopment" }
+      ],
+      "keyPeople": ["Ryan Gravel", "Cathy Woolard", "Shirley Franklin"],
+      "keyPlaces": ["Centennial Olympic Park", "Georgia Tech", "Midtown", "West End", "Eastside Trail", "Atlanta BeltLine"]
+    },
+    {
+      "id": "2010s-present",
+      "era": "Contemporary Atlanta: growth, inequality, and contested futures",
+      "yearRange": "2010s–Present",
+      "content": "By the early 21st century, metro Atlanta had grown into one of the nation's largest metro areas, anchored by Hartsfield-Jackson (regularly the world's busiest airport), major corporations, film and media production, and a deep bench of Black political, cultural, and business leadership. Yet several fault lines define recent history. Regional sprawl and fragmentation: decades of white flight and suburban incorporation created a patchwork of municipalities with divergent resources and politics, reinforcing racial and economic segregation. Buckhead and class politics: Buckhead's annexation in 1952 to preserve white political dominance has echoed into recent movements for Buckhead \"cityhood,\" driven by crime and resource debates but rooted in long histories of white flight and racialized power. Gentrification and displacement: intown neighborhoods—especially those near BeltLine and MARTA—have seen intense reinvestment and rising housing costs, displacing many long-time Black residents even as civic leaders continue to market Atlanta as a Black Mecca. Historic Black districts like Sweet Auburn remain powerful symbols of Black entrepreneurship and resistance, but also sites where preservation, commercial revitalization, and community needs often pull in different directions.",
+      "keyEvents": [
+        { "year": "2010s", "event": "BeltLine continues to expand; debates over affordability and displacement intensify" },
+        { "year": "2020s", "event": "Renewed pushes for Buckhead 'cityhood'; broader debates about crime, equity, and representation" }
+      ],
+      "keyPeople": [],
+      "keyPlaces": ["Hartsfield-Jackson Airport", "BeltLine", "MARTA", "Buckhead", "Sweet Auburn"]
+    },
+    {
+      "id": "timeline",
+      "era": "Working timeline of major milestones",
+      "yearRange": "Pre-1800s–2020s",
+      "content": "A concise timeline spanning all eras of Atlanta history, from Muscogee (Creek) and Cherokee homelands through railroads and city founding, Civil War and burning, Reconstruction and New South, Jim Crow and Sweet Auburn, aviation and WWII, civil rights, Black political power, the Olympics and BeltLine, to contemporary growth and contested futures.",
+      "keyEvents": [
+        { "year": "Pre-1800s", "event": "Muscogee (Creek) and Cherokee homelands in the region" },
+        { "year": "1821", "event": "Treaty of Indian Springs: Creeks cede land including modern Atlanta" },
+        { "year": "1837", "event": "Western & Atlantic engineers mark 'Terminus'" },
+        { "year": "1845", "event": "Renamed 'Atlanta'" },
+        { "year": "1847", "event": "Atlanta incorporated as a city" },
+        { "year": "1864", "event": "Atlanta Campaign; Sherman's burning" },
+        { "year": "1865", "event": "Civil War ends; Atlanta University founded" },
+        { "year": "1868", "event": "Atlanta becomes state capital" },
+        { "year": "1881", "event": "Washerwomen's strike" },
+        { "year": "1895", "event": "Cotton States Exposition; 'Atlanta Compromise' speech" },
+        { "year": "1906", "event": "Atlanta Race Massacre" },
+        { "year": "1917", "event": "Great Atlanta Fire" },
+        { "year": "1925", "event": "Candler Field (airport) founded" },
+        { "year": "1948", "event": "First Black Atlanta police officers hired" },
+        { "year": "1952", "event": "Buckhead annexation" },
+        { "year": "1957", "event": "SCLC founded in Atlanta" },
+        { "year": "1960", "event": "'An Appeal for Human Rights' published; sit-ins begin" },
+        { "year": "1973", "event": "Maynard Jackson elected first Black mayor" },
+        { "year": "1980", "event": "New midfield airport terminal opens" },
+        { "year": "1996", "event": "Atlanta hosts Summer Olympics" },
+        { "year": "1999", "event": "BeltLine thesis proposed" },
+        { "year": "2012", "event": "Eastside Trail opens" }
+      ],
+      "keyPeople": [],
+      "keyPlaces": []
+    }
+  ]
+}

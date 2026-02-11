@@ -1,0 +1,162 @@
+{
+  "title": "James McKay / Creative Context",
+  "entityNote": "James McKay, Creative Context, and Creative Context Studio are the same person/entity. Any query referencing these names should be treated as the same.",
+  "sections": [
+    {
+      "id": "identity",
+      "topic": "Identity & Contact",
+      "content": "James McKay operates professionally as Creative Context and Creative Context Studio — all three names refer to the same person and entity. Email: james@creativecontext.studio. Based in Atlanta, GA and Brooklyn, NY. Remote-first with full capability to produce globally. Does not require visa sponsorship. Available to start immediately.",
+      "keyDetails": [
+        "james@creativecontext.studio",
+        "Atlanta, GA + Brooklyn, NY",
+        "Remote-first, global production capability",
+        "US-based, no sponsorship needed"
+      ]
+    },
+    {
+      "id": "positioning",
+      "topic": "Professional Identity & Positioning",
+      "content": "Primary title: Video Creative Leader & Production Systems Strategist. Also: Producer & Creative Director, Creative Technologist & AI Systems Builder, Technical Producer. Core value: producer and creator building production systems that work at any scale, from boutique creative direction to distributed teams producing 100+ assets weekly. Combines 18+ years of traditional, brand, and broadcast experience with hands-on AI integration expertise. Bridges traditional production with emerging tech, creative with technical, strategy with execution, global operations with remote-first delivery.",
+      "keyDetails": [
+        "18+ years production experience",
+        "Network television, Fortune 500 campaigns, film",
+        "Traditional + emerging tech bridge",
+        "Strategy through hands-on delivery"
+      ]
+    },
+    {
+      "id": "career-cc",
+      "topic": "Career: Creative Context Studio (2009–Present)",
+      "content": "Founded in 2009. Through Creative Context Studio, James has concepted, produced, and delivered video projects spanning brand campaigns, documentary content, narrative film, and emerging media for Fortune 500 clients (IBM, Adidas, JP Morgan Chase), major networks, and independent productions. Managed teams across 6 continents. Built production systems from scratch including AI-integrated content creation workflows. Notable: IBM Cyber Security Campaign (2018) exceeded engagement targets by 40%. Feature film 'netuser' (2020) starring Denis O'Hare won Best Film at LGBT Los Angeles Film Festival. Built performance video testing framework reducing iteration cycles by 60%. Established distributed production network enabling content creation from anywhere on Earth.",
+      "keyDetails": [
+        "Founded 2009, Atlanta & Brooklyn",
+        "Fortune 500 clients: IBM, Adidas, JP Morgan Chase",
+        "IBM campaign exceeded targets by 40%",
+        "netuser — Best Film, LGBT LA Film Festival",
+        "Teams managed across 6 continents"
+      ]
+    },
+    {
+      "id": "career-rf",
+      "topic": "Career: RF Studio53 (2022–2025)",
+      "content": "Agency producer specializing in strategic video production for Fortune 500 brands across finance, private equity, healthcare, pharma, tech, luxury, and aviation sectors. Produced end-to-end from creative concepting through delivery. Pioneered integration of AI brand ambassadors, VR/XR/AR experiences, and generative content tools into traditional agency workflows. Managed corporate AGM productions and live-streamed events. Built immersive brand experiences integrating virtual production technologies. Served as primary client contact translating business objectives into creative strategies.",
+      "keyDetails": [
+        "Agency producer, Fortune 500 accounts",
+        "AI brand ambassadors and VR/XR/AR",
+        "Corporate AGMs and live streaming",
+        "Finance, healthcare, pharma, tech, luxury, aviation"
+      ]
+    },
+    {
+      "id": "career-broadcast",
+      "topic": "Career: Broadcast & Network (2005–2022)",
+      "content": "The CW Network — Production Manager for 'Would I Lie To You?' (2022): 13 episodes, 45+ team, 6.5 hours broadcast TV on compressed 10-day timeline. Travel Channel — Production Supervisor for 'Ripley's Believe It or Not!' (2020): 60+ segments across 25+ cities spanning 6 continents, 100+ person distributed teams, zero safety incidents. Adidas/Champs (2019): 15-minute branded documentary with A-list talent. Viceland/A&E (2016): Line Producer on 'States of Undress S.2' and 'Country Buck$ S.2'. Discovery ID (2015-2016): Line Producer on 'Shadow of Doubt', 6x60 episodes. Additional network work: MTV, National Geographic (NASA partnership), SyFy, Animal Planet (early 4K adoption), Food Network.",
+      "keyDetails": [
+        "The CW: 13 episodes in 10 days",
+        "Travel Channel: 25+ cities, 6 continents, zero incidents",
+        "MTV, NatGeo, SyFy, Animal Planet, Food Network",
+        "Adidas/Champs documentary with A-list talent"
+      ]
+    },
+    {
+      "id": "career-studio",
+      "topic": "Career: Major Studio & Early Work (2005–2011)",
+      "content": "Walt Disney Pictures — Production Secretary on Pirates of the Caribbean II & III, managing communications for 600+ crew across 3 Bahamian islands. Warner Bros. — Background Casting for Superman: Man of Steel (Metropolis and Smallville). Independent features: Mariachi Gringo (US/Mexico co-production), Higher Ground (period film with stunts), Were the World Mine (indie musical), Peter and Vandy, Death in Love. Web series: Behind the Star (10 episodes for Crackle/Sony Pictures Television). JP Morgan Chase whiteboard animation campaign. Condé Nast culinary content. Theatrical work (1996–2005): About Face Theatre and pushpush theater.",
+      "keyDetails": [
+        "Pirates of the Caribbean II & III — 600+ crew",
+        "Superman: Man of Steel — background casting",
+        "Multiple independent features",
+        "Crackle/Sony web series"
+      ]
+    },
+    {
+      "id": "skills",
+      "topic": "Core Skills & Technical Tools",
+      "content": "Strategic Production: creative producing, narrative storytelling, performance video optimization, talent direction, multi-platform content strategy. Operations: budget management, distributed team management (6+ continents), workflow automation, production scheduling. Technical: Adobe Creative Suite (Premiere Pro, After Effects, Photoshop), DaVinci Resolve, multi-camera direction, live streaming, motion graphics, sound design. Emerging Tech: Unreal Engine 5, Unity, virtual production, motion capture, real-time rendering. Programming: Python, C#, React, Java, REST, GraphQL. Platforms: broadcast TV, film, YouTube, TikTok, Instagram, Facebook, LinkedIn, programmatic video.",
+      "keyDetails": [
+        "Adobe suite, DaVinci Resolve, Avid, FCP",
+        "Unreal Engine 5, Unity, virtual production",
+        "Python, C#, React, Java",
+        "All major broadcast and digital platforms"
+      ]
+    },
+    {
+      "id": "ai-expertise",
+      "topic": "AI & Automation Expertise",
+      "content": "Operational AI integration: building workflows where AI handles operational overhead so creative teams focus on creative work. Advanced proficiency in Claude and ChatGPT (2+ years daily operational use): prompt engineering, workflow automation, custom MCPs, context engineering, agentic workflows. Advanced in ElevenLabs (15+ client projects): voice cloning, multilingual content. Intermediate in HeyGen (5+ implementations): AI brand ambassadors, synthetic talent. Built custom MCPs connecting Claude to Airtable, Google Workspace, and production tracking. Uses n8n for task automation and system integration. Practical AI philosophy: tools solve real production problems, not marketing gimmicks.",
+      "keyDetails": [
+        "Claude & ChatGPT: 2+ years daily use, advanced",
+        "ElevenLabs: 15+ client projects, advanced",
+        "HeyGen: 5+ implementations, intermediate",
+        "Custom MCP development for production workflows",
+        "n8n workflow automation"
+      ]
+    },
+    {
+      "id": "notable-projects",
+      "topic": "Notable Projects",
+      "content": "Agentic Production System (2024–2026): prototyped system using Claude Code + MCPs allowing producers to make plain language requests in Slack/email and receive functionality across Google Workspace, Airtable, and white-labeled SaaS apps. Features RAG, calendar checking, project tracking, approval gates, and audit trails. Interactive AI Brand Ambassador (2023–2024): built interactive AI brand ambassador with RAG knowledge base for regulatory compliance, using real actors filmed and fed into HeyGen. Deployed on web and at live events with voice interaction and fail-safe systems for C-Suite presentations. Choose-Your-Own-Adventure Learning Platform (2025–2026): building white-labeled platform for interactive learning, corporate training, and onboarding.",
+      "keyDetails": [
+        "Agentic production system with Claude Code + MCPs",
+        "AI brand ambassador with regulatory compliance",
+        "Interactive learning platform",
+        "RAG knowledge bases, approval gates, audit trails"
+      ]
+    },
+    {
+      "id": "clients",
+      "topic": "Client & Network Portfolio",
+      "content": "Corporate: IBM, JP Morgan Chase, Adidas, Champs, Facebook, Complex, plus 50+ Fortune 500 brands across finance, private equity, healthcare, pharma, tech, luxury, and aviation. Studios: Disney (Walt Disney Pictures), Warner Bros., Sony Pictures (Crackle), National Geographic. Networks: MTV, SyFy, NBC Universal, Travel Channel, Discovery (Discovery ID, Animal Planet), A&E Networks (Viceland), Food Network, The CW. Additional: Condé Nast, Esquire, various independent production companies.",
+      "keyDetails": [
+        "IBM, JP Morgan Chase, Adidas, Facebook",
+        "Disney, Warner Bros., Sony, NatGeo",
+        "MTV, NBC Universal, Travel Channel, CW",
+        "50+ Fortune 500 brands"
+      ]
+    },
+    {
+      "id": "production-scale",
+      "topic": "Production Scale & Capabilities",
+      "content": "Geographic: 6 continents, 25+ cities, 60+ delivered segments, full remote-first operations. Teams: 45-person studio crews, 100+ person distributed teams, 600+ crew communications (Disney features). Volume: 100+ assets weekly capacity, 13-episode series on 10-day timeline, 6x60 true crime episodes, multiple simultaneous campaigns. Budget: consistently on time and on budget, managed Louisiana tax incentives, US/Mexico co-production tax credits, Fortune 500 campaign budgets. Safety: zero incidents across 25+ international locations, high-value stunts and extreme scenarios managed safely. Quality: broadcast standards, regulatory compliance (healthcare/pharma), security clearances (IBM, NASA).",
+      "keyDetails": [
+        "6 continents, 25+ cities",
+        "100+ person distributed teams",
+        "100+ assets per week capacity",
+        "Zero safety incidents across all locations"
+      ]
+    },
+    {
+      "id": "voice-dna",
+      "topic": "Voice & Communication Style",
+      "content": "Writes like someone allergic to bullshit. Strips out industry jargon, marketing speak, and corporate handbook phrases. Reserved enthusiasm — direct and economical with words. Skeptical of hype, especially around AI. Focuses on practical outcomes, not theoretical possibilities. Short clear sentences over long flowing ones. Content priorities: the story first, then the team, then problems and solutions, then technical details only if they matter. Names tools specifically (Claude, ChatGPT, ElevenLabs, HeyGen) rather than hiding behind 'AI-powered solutions'. Never uses: synergy, rockstar, passionate, innovative, revolutionary, game-changing.",
+      "keyDetails": [
+        "Direct, no-bullshit communication",
+        "Skeptical of hype, practical focus",
+        "Names specific tools and outcomes",
+        "Zero tolerance for fabricated statistics"
+      ]
+    },
+    {
+      "id": "philosophy",
+      "topic": "Work Philosophy",
+      "content": "Mission: building systems that help creatives spend more time making things. AI is a tool for removing friction, not a miracle cure. Starts with the actual problem, not the tool. Tests AI against real production requirements, not vendor promises. Builds decision frameworks for when to use AI vs. traditional methods. Credits expertise specifically, names roles and contributions. Trains teams practically without hype. Quality standards maintained regardless of tools used. On-time and on-budget delivery is non-negotiable. Explores emerging tech when it solves real problems — not bleeding-edge R&D, not avoiding innovation. Builds repeatable processes, not one-off experiments.",
+      "keyDetails": [
+        "Help creatives spend more time making things",
+        "Start with the problem, not the tool",
+        "On-time, on-budget is non-negotiable",
+        "Repeatable processes over experiments"
+      ]
+    },
+    {
+      "id": "case-studies",
+      "topic": "AI Case Studies",
+      "content": "Performance Video Testing: combined traditional production with AI tools (ElevenLabs, Claude) to enable rapid creative testing of ad variations from single shoot assets. Reduced iteration cycles by 60%, enabled 5-10X more variations within same budget. Distributed Production Automation: built system using Claude, custom MCPs, and workflow tools to handle scheduling, status tracking, and client communication across 6 continents. Cut operational overhead from 15-20 hours/week to 3-5 hours/week. Agency AI Strategy: evaluated AI tools for practical agency use, built proof-of-concepts, trained 15+ team members, launched 3 successful client projects including AI brand ambassadors and multilingual content. Voice Production with ElevenLabs: implemented AI voice generation for rapid prototyping and multilingual content at 5-10% of traditional localization costs.",
+      "keyDetails": [
+        "60% reduction in iteration cycles",
+        "Operational overhead cut from 15-20 to 3-5 hrs/week",
+        "15+ team members trained on AI tools",
+        "Multilingual content at 5-10% traditional cost"
+      ]
+    }
+  ]
+}

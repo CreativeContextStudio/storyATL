@@ -1,0 +1,255 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================
+   storyATL — Brand Design Tokens
+   ============================================ */
+
+:root {
+  /* Typography Scale (fluid) */
+  --text-xs: clamp(0.694rem, 0.66rem + 0.18vw, 0.8rem);
+  --text-sm: clamp(0.833rem, 0.78rem + 0.26vw, 1rem);
+  --text-base: clamp(1rem, 0.93rem + 0.36vw, 1.25rem);
+  --text-lg: clamp(1.2rem, 1.1rem + 0.5vw, 1.563rem);
+  --text-xl: clamp(1.44rem, 1.28rem + 0.8vw, 1.953rem);
+  --text-2xl: clamp(1.728rem, 1.49rem + 1.19vw, 2.441rem);
+  --text-3xl: clamp(2.074rem, 1.72rem + 1.77vw, 3.052rem);
+  --text-4xl: clamp(2.488rem, 1.97rem + 2.59vw, 3.815rem);
+  --text-5xl: clamp(2.986rem, 2.23rem + 3.78vw, 4.768rem);
+
+  /* Motion */
+  --ease-atl: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --duration-fast: 150ms;
+  --duration-base: 250ms;
+  --duration-slow: 400ms;
+
+  /* Border Radius */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 18px;
+  --radius-full: 9999px;
+
+  /* Z-index */
+  --z-base: 1;
+  --z-card: 10;
+  --z-nav: 100;
+  --z-alert: 200;
+  --z-overlay: 500;
+  --z-modal: 1000;
+
+  /* Header height (nav row + timeline row) — kept in sync with responsive padding */
+  --header-h: 100px;
+}
+
+@media (min-width: 640px) {
+  :root {
+    --header-h: 110px;
+  }
+}
+
+@media (min-width: 768px) {
+  :root {
+    --header-h: 116px;
+  }
+}
+
+/* ============================================
+   Light Theme: Neon + Peach
+   ============================================ */
+[data-theme='light'] {
+  --color-surface: #FFF8F5;
+  --color-surface-alt: #FFF0EB;
+  --color-surface-dark: #1A1A2E;
+
+  --color-accent: #FF7F5C;
+  --color-accent-hover: #FFA07A;
+
+  --color-secondary: #7B2FBE;
+  --color-secondary-light: #9B59D0;
+
+  --color-text-primary: #1A1A2E;
+  --color-text-secondary: #5C5470;
+  --color-text-inverse: #FFF8F5;
+
+  --color-interactive: #00A8CC;
+  --color-interactive-hover: #008DAD;
+
+  --color-link: #00A8CC;
+  --color-link-hover: #008DAD;
+
+  --color-success: #2EC866;
+  --color-warning: #FFB627;
+  --color-error: #FF4057;
+  --color-highlight: #FF2D7B;
+
+  --shadow-glow: 0 8px 30px rgba(255,127,92,0.25);
+
+  --color-chat-visitor: #FF7F5C;
+  --color-chat-visitor-text: #FFF8F5;
+  --color-chat-atlanta: #FFFFFF;
+  --color-chat-atlanta-border: #FFF0EB;
+
+  --color-timeline-active: #FF7F5C;
+  --color-timeline-visited: #165B4A;
+  --color-timeline-future: #D8D5DE;
+  --color-timeline-line: #D8D5DE;
+  --color-timeline-line-active: #165B4A;
+
+  --color-suggestion-bg: transparent;
+  --color-suggestion-border: #FF7F5C;
+  --color-suggestion-text: #FF7F5C;
+
+  --color-section-label: #A09DAB;
+  --color-divider: #EEECF1;
+
+  --color-card-bg: #FFFFFF;
+  --color-card-border: #EEECF1;
+
+  --color-header-bg: #FFF8F5;
+  --color-nav-text: #5C5470;
+  --color-nav-text-hover: #1A1A2E;
+
+  --color-orbital-ring: #A09DAB;
+}
+
+/* ============================================
+   Dark Theme: Canopy + Concrete
+   ============================================ */
+[data-theme='dark'] {
+  --color-surface: #F5F2ED;
+  --color-surface-alt: #ECE8E1;
+  --color-surface-dark: #2D2D2D;
+
+  --color-accent: #165B4A;
+  --color-accent-hover: #2D7A65;
+
+  --color-secondary: #B85C38;
+  --color-secondary-light: #D48468;
+
+  --color-text-primary: #2D2D2D;
+  --color-text-secondary: #6B6B6B;
+  --color-text-inverse: #F5F2ED;
+
+  --color-interactive: #1E5FBF;
+  --color-interactive-hover: #1A52A8;
+
+  --color-link: #1E5FBF;
+  --color-link-hover: #1A52A8;
+
+  --color-success: #2D7A65;
+  --color-warning: #C9A227;
+  --color-error: #5C1A4A;
+  --color-highlight: #8B2E6B;
+
+  --shadow-glow: 0 8px 30px rgba(22,91,74,0.25);
+
+  --color-chat-visitor: #B85C38;
+  --color-chat-visitor-text: #F5F2ED;
+  --color-chat-atlanta: #FFFFFF;
+  --color-chat-atlanta-border: #ECE8E1;
+
+  --color-timeline-active: #C9A227;
+  --color-timeline-visited: #165B4A;
+  --color-timeline-future: #D8D5DE;
+  --color-timeline-line: #D8D5DE;
+  --color-timeline-line-active: #165B4A;
+
+  --color-suggestion-bg: transparent;
+  --color-suggestion-border: #B85C38;
+  --color-suggestion-text: #B85C38;
+
+  --color-section-label: #6B6B6B;
+  --color-divider: #ECE8E1;
+
+  --color-card-bg: #FFFFFF;
+  --color-card-border: #ECE8E1;
+
+  --color-header-bg: #F5F2ED;
+  --color-nav-text: #6B6B6B;
+  --color-nav-text-hover: #2D2D2D;
+
+  --color-orbital-ring: #8A8A8A;
+}
+
+/* ============================================
+   Suggestion Pulse (Exchange 0 CTA)
+   ============================================ */
+@keyframes suggestion-pulse {
+  0%, 100% {
+    box-shadow: 0 0 0 0 color-mix(in srgb, var(--color-suggestion-border) 60%, transparent);
+  }
+  50% {
+    box-shadow: 0 0 0 8px color-mix(in srgb, var(--color-suggestion-border) 0%, transparent);
+  }
+}
+
+/* ============================================
+   Base Styles
+   ============================================ */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    font-family: var(--font-body), -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-size: var(--text-base);
+    line-height: 1.6;
+    color: var(--color-text-primary);
+    background-color: var(--color-surface);
+    transition: background-color var(--duration-slow) var(--ease-atl),
+                color var(--duration-slow) var(--ease-atl);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display), 'Arial Black', sans-serif;
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+  }
+
+  a {
+    color: var(--color-link);
+    text-decoration: none;
+    transition: color var(--duration-fast) var(--ease-atl);
+  }
+
+  a:hover {
+    color: var(--color-link-hover);
+  }
+}
+
+/* ============================================
+   Utility Classes
+   ============================================ */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* ============================================
+   Accessibility: Reduced Motion
+   ============================================ */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
