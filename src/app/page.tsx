@@ -1,7 +1,6 @@
 'use client';
 
 import Header from '@/components/layout/Header';
-import Footer from '@/components/layout/Footer';
 import VisualContainer from '@/components/visuals/VisualContainer';
 import ChatThread from '@/components/chat/ChatThread';
 
@@ -22,7 +21,6 @@ export default function Home() {
         {/* Chat column (right) — scrolls */}
         <div className="w-full lg:w-[55%] h-full overflow-y-auto scrollbar-hide">
           <ChatThread />
-          <Footer />
         </div>
       </main>
     </>

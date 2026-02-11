@@ -60,7 +60,7 @@ function ExchangeContent({ component }: { component?: string }) {
 }
 
 export default function ChatThread() {
-  const { state, dispatch } = useStory();
+  const { state, dispatch, reset } = useStory();
   const scrollContainerRef = useRef<HTMLElement | null>(null);
   const { suppressSync } = useScrollVisualSync(scrollContainerRef);
   const { chatThreadRef, handleSuggestionClick, handleSuggestionAutoTypeComplete } =
@@ -218,6 +218,21 @@ export default function ChatThread() {
       {/* Persistent input for Exchange 9 live chat */}
       {state.currentExchange === 9 && (
         <LiveChatInput />
+      )}
+
+      {/* Reset button at Exchange 9 */}
+      {state.currentExchange === 9 && (
+        <div className="text-center py-4">
+          <button
+            onClick={reset}
+            className="rounded-brand border-2 border-[var(--color-card-border)] px-4 py-2
+                       text-sm font-semibold text-text-primary
+                       transition-all duration-[var(--duration-fast)] ease-atl
+                       hover:border-accent hover:text-accent sm:px-5 sm:py-2.5"
+          >
+            Start from the beginning
+          </button>
+        </div>
       )}
 
       {/* Scroll anchor for auto-scroll */}

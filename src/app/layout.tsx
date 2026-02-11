@@ -1,7 +1,6 @@
 import type { Metadata, Viewport } from 'next';
 import { Space_Grotesk, DM_Sans, JetBrains_Mono } from 'next/font/google';
 import { StoryProvider } from '@/context/StoryContext';
-import SiteFooter from '@/components/layout/SiteFooter';
 import './globals.css';
 
 const spaceGrotesk = Space_Grotesk({
@@ -85,7 +84,6 @@ export default function RootLayout({
         <StoryProvider>
           <div className="flex h-screen overflow-hidden flex-col bg-surface transition-colors duration-[var(--duration-slow)] ease-atl">
             {children}
-            <SiteFooter />
           </div>
         </StoryProvider>
       </body>
