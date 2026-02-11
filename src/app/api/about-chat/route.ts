@@ -11,9 +11,11 @@ import {
 } from '@/data/knowledge';
 import { rateLimit } from '@/lib/rate-limit';
 
-const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
-});
+let _openai: OpenAI | null = null;
+function getOpenAI() {
+  if (!_openai) _openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+  return _openai;
+}
 
 function buildAboutSystemPrompt(): string {
   const ccBlocks = kbCreativeContext.sections
@@ -117,7 +119,7 @@ export async function POST(request: Request) {
 
     const recentMessages = messages.slice(-10) as Array<{ role: 'user' | 'assistant'; content: string }>;
 
-    const completion = await openai.chat.completions.create({
+    const completion = await getOpenAI().chat.completions.create({
       model: process.env.OPENAI_MODEL || 'gpt-4o-mini',
       messages: [
         { role: 'system', content: aboutSystemPrompt },
